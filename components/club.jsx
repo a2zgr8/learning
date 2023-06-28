@@ -11,7 +11,7 @@ export default function Club({clubName,location}){
 }
 const styles = StyleSheet.create({
     main: {
-        backgroundColor: '#555',
+        backgroundColor: '#554',
         borderRadius: 10,
         padding: 10,
         minWidth: 'auto',
